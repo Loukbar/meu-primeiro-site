@@ -1,0 +1,12 @@
+body {
+    background-color: #1B1c1b;
+    color: white;
+}
+.video__post {
+ width: 100%;
+}
+.videoCapa{
+   margin: auto;
+    width: 500px; 
+    height: 300px;
+}
